@@ -1,0 +1,27 @@
+.navbar{
+    background-color: antiquewhite;
+    overflow: hidden;
+
+
+}
+.navbar a{
+    color: black;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    padding: 15px 15px;
+}
+.navbar a:hover{
+    background-color: aliceblue;
+    color: brown;
+}
+.footer{
+    position: relative;
+    margin-top: -0%;
+    background-color: cadetblue;
+    padding: 1%;
+    clear: both;
+    text-align: center;
+    color: beige;
+}
